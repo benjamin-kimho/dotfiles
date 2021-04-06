@@ -1,0 +1,17 @@
+# Personal Github
+Host personal-github.com
+HostName github.com
+IdentityFile ~/.ssh/personal
+IdentitiesOnly yes
+
+# Work Github
+Host work.github.com
+HostName github.com
+IdentityFile ~/.ssh/work
+IdentitiesOnly yes
+
+# WorkingMouse Gitlab
+Host git.codebots.com
+HostName git.codebots.com
+IdentityFile ~/.ssh/work
+IdentitiesOnly yes
