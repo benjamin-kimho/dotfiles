@@ -1,6 +1,5 @@
 # Important
 
-- **Before using vim, install [vim-plug](https://github.com/junegunn/vim-plug)**
 - **On Windows, enable OpenSSH Authentication Agent service to use ssh `config` file**
 
 # Create symbolic links on Windows 10 using Powershell
