@@ -35,3 +35,6 @@ if [ -f '/Users/benjaminkimho/google-cloud-sdk/path.zsh.inc' ]; then . '/Users/b
 
 # The next line enables shell command completion for gcloud.
 if [ -f '/Users/benjaminkimho/google-cloud-sdk/completion.zsh.inc' ]; then . '/Users/benjaminkimho/google-cloud-sdk/completion.zsh.inc'; fi
+
+# alias
+alias gitlog="git log --all --graph --pretty=oneline"
