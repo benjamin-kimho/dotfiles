@@ -11,7 +11,7 @@ IdentityFile ~/.ssh/work
 IdentitiesOnly yes
 
 # WorkingMouse Gitlab
-Host codebots
+Host git.codebots.com
 HostName git.codebots.com
 IdentityFile ~/.ssh/work
 IdentitiesOnly yes
