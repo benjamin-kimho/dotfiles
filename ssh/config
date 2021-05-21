@@ -1,17 +1,18 @@
 # Personal Github
-Host personal-github
-HostName github.com
+Host personal.github.com
 IdentityFile ~/.ssh/personal
 IdentitiesOnly yes
 
 # Work Github
-Host work-github
-HostName github.com
+Host workingmouse.github.com
 IdentityFile ~/.ssh/work
 IdentitiesOnly yes
 
 # WorkingMouse Gitlab
 Host git.codebots.com
-HostName git.codebots.com
 IdentityFile ~/.ssh/work
+IdentitiesOnly yes
+
+Host personal.bitbucket.org
+IdentityFile ~/.ssh/personal-bitbucket
 IdentitiesOnly yes
