@@ -17,5 +17,5 @@ IdentitiesOnly yes
 
 Host personal-bitbucket
 HostName bitbucket.org
-IdentityFile ~/.ssh/personal-bitbucket
+IdentityFile ~/.ssh/personal
 IdentitiesOnly yes
